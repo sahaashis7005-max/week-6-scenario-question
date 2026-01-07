@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>EcoMart | Research</title>
+
+    <!-- Meta information -->
+    <meta charset="UTF-8">
+    <meta name="description" content="Research and comparison of EcoMart website design with other websites">
+    <meta name="keywords" content="EcoMart, Research, Website Comparison, Sustainability">
+    <meta name="author" content="EcoMart Team">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- External CSS -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Internal CSS for Research Page -->
+    <style>
+        /* Main container styling */
+        .research-container {
+            padding: 25px;
+            line-height: 1.7;
+            background-color: #f4fff4;
+        }
+
+        /* Headings styling */
+        h1 {
+            color: #2e7d32;
+            text-align: center;
+        }
+
+        h2 {
+            color: #1b5e20;
+            border-left: 5px solid #66bb6a;
+            padding-left: 10px;
+            margin-top: 30px;
+        }
+
+        /* Paragraph and list styling */
+        p, li {
+            color: #333;
+            font-size: 16px;
+        }
+
+        ul {
+            margin-left: 20px;
+        }
+
+        /* Image styling */
+        .research-image {
+            display: block;
+            margin: 20px auto;
+            width: 80%;
+            max-width: 600px;
+            border-radius: 10px;
+        }
+
+        /* Highlight box */
+        .highlight {
+            background-color: #e8f5e9;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+
+<body>
+
+<!-- Navigation Bar -->
+<nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="research.html">Research</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="contact.html">Contact</a></li>
+    </ul>
+</nav>
+
+<!-- Research Content -->
+<div class="research-container">
+
+    <h1>Research Page – EcoMart</h1>
+
+    <!-- Research Image -->
+    <img src="images/research.jpg" alt="Website research and comparison illustration" class="research-image">
+
+    <!-- Website References Section -->
+    <h2>1. Website References</h2>
+    <p>The following websites were researched and analyzed for comparison with the EcoMart website:</p>
+    <ul>
+        <li>earthhero.com – Sustainable e-commerce website</li>
+        <li>greenpeace.org – Environmental awareness platform</li>
+        <li>patagonia.com – Sustainable clothing brand</li>
+        <li>etsy.com – Online marketplace</li>
+        <li>amazon.com – Large-scale e-commerce platform</li>
+    </ul>
+
+    <!-- Similarities Section -->
+    <h2>2. Similarities</h2>
+    <div class="highlight">
+        <ul>
+            <li>All websites use a navigation bar for easy access.</li>
+            <li>Product-based websites display images, names, and prices.</li>
+            <li>Text and images are used to present information clearly.</li>
+            <li>Blog or article sections help educate users.</li>
+            <li>User-friendly design is a common goal.</li>
+        </ul>
+    </div>
+
+    <!-- Differences Section -->
+    <h2>3. Differences</h2>
+    <ul>
+        <li>EcoMart is a static website, while most researched websites are dynamic.</li>
+        <li>Advanced features such as reviews and filters are not included.</li>
+        <li>EcoMart uses a simple and clean layout.</li>
+        <li>Large websites use backend technologies, EcoMart does not.</li>
+        <li>EcoMart focuses equally on education and products.</li>
+    </ul>
+
+    <!-- Improvements Section -->
+    <h2>4. Improvements Made in EcoMart</h2>
+    <div class="highlight">
+        <ul>
+            <li>Consistent green-themed color scheme.</li>
+            <li>Clear display of discounted and actual prices.</li>
+            <li>Easy navigation suitable for all users.</li>
+            <li>Functional contact form with JavaScript validation.</li>
+            <li>Simple structure for better accessibility.</li>
+        </ul>
+    </div>
+
+    <!-- Conclusion -->
+    <h2>5. Conclusion</h2>
+    <p>
+        This research helped in understanding different website designs and technologies.
+        EcoMart improves upon researched websites by maintaining simplicity, accessibility,
+        and clarity while still delivering essential e-commerce features.
+    </p>
+
+</div>
+
+</body>
+</html>
